@@ -1,1 +1,42 @@
-# student-trainee-management
+# Online Internship Management System
+
+The Online Internship Management System is a web-based application developed using PHP, CSS, JavaScript, Bootstrap, and MySQLi. It provides a platform for students to find internships and for employers to post internship vacancies. The system consists of two sections: admin and user.
+
+## Features
+
+- Register Employer
+- Manage Employer
+- Manage Internship
+- Manage Students
+- Apply Internship
+- Register Students
+- Login and Logout
+
+## Setup Instructions
+
+1. **Download the zip file.**
+2. **Download and install XAMPP.**
+3. **Run the XAMPP control panel and start MySQL and Apache.**
+4. **Extract the downloaded zip file inside the `htdocs` folder (usually located at `C:\xampp\htdocs`).**
+5. **Open your browser and go to [http://localhost/phpmyadmin/](http://localhost/phpmyadmin/) to create the database.**
+6. **Click "New" to create a new database named `internship`.**
+7. **Click "Import" to import the SQL file found inside the `internship` folder.**
+8. **Select the SQL file and click "Go".**
+
+## Running the System
+
+1. **Open your browser and go to [http://localhost/internship/](http://localhost/internship/).**
+2. **Register to access Employer Accounts or Student Accounts.**
+
+## Usage
+
+This Online Internship Management System is provided for educational purposes only. You are free to download, modify, and use it according to your needs.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Conclusion
+
+The Online Internship Management System offers a convenient way for students to find internships and for employers to post internship vacancies. It is a user-friendly system with basic features for managing internships, employers, and students.
+
