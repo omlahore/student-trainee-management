@@ -12,6 +12,10 @@ The Online Internship Management System is a web-based application developed usi
 - Register Students
 - Login and Logout
 
+## Screenshots
+
+![Screenshot from 2024-04-07 15-12-25](https://github.com/omlahore/student-trainee-management/assets/119071446/c060ed81-e699-49e2-91a4-ab848eeac750)
+
 ## Setup Instructions
 
 1. **Download the zip file.**
