@@ -16,6 +16,11 @@ The Online Internship Management System is a web-based application developed usi
 
 ![Screenshot from 2024-04-07 15-12-25](https://github.com/omlahore/student-trainee-management/assets/119071446/c060ed81-e699-49e2-91a4-ab848eeac750)
 
+![Screenshot from 2024-04-07 15-14-12](https://github.com/omlahore/student-trainee-management/assets/119071446/0a5a7b28-3068-43c5-9d59-817ba0e75650)
+
+![Screenshot from 2024-04-07 15-14-20](https://github.com/omlahore/student-trainee-management/assets/119071446/a6d8b0ad-c0d2-497a-ae60-8ba41abd5100)
+
+
 ## Setup Instructions
 
 1. **Download the zip file.**
