@@ -23,15 +23,5 @@ if(isset($_SESSION['SBUser'])){
 	$user_data['last'] = $fn[1];
 }
 
-// if(isset($_SESSION['success_flash'])){
-// 	echo '<p class="text-success text-center">'.$_SESSION['success_flash'].'</p>';
-// 	unset($_SESSION['success_flash']);
-// }
-
-// if(isset($_SESSION['error_flash'])){
-// 	echo '<p class="text-danger text-center">'.$_SESSION['error_flash'].'</p>';
-// 	unset($_SESSION['error_flash']);
-// }
-
 ?>
 
