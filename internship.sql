@@ -1,4 +1,3 @@
-Sure, I'll add comments to explain the structure and purpose of each table and its columns. Here's the modified SQL dump with comments:
 
 ```sql
 -- phpMyAdmin SQL Dump
